@@ -5,11 +5,11 @@
 }
 
 :root {
-  --light-color: #94b0ff;
+  --light-color: #cdcdcd;
 }
 
 body {
-  background-color: #4d7bff;
+  background-color: #000000;
 }
 
 .container {

@@ -4,7 +4,7 @@ btn.addEventListener("click", () => {
     document.documentElement.style.cssText = "--light-color: #f8d11d";
     btn.innerText = "OFF";
   } else {
-    document.documentElement.style.cssText = "--light-color: #94b0ff";
+    document.documentElement.style.cssText = "--light-color: #cdcdcd";
     btn.innerText = "ON";
   }
 });
